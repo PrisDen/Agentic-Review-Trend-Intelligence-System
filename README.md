@@ -429,6 +429,5 @@ pulsegen/
 
 ---
 
-**Built by**: Senior engineers who believe in correctness over cleverness, and explicit design decisions over magic.
 
 **License**: MIT
